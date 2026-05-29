@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdrocess",
+        "uuid": 33850764,
+        "checksum": "og928"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
